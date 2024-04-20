@@ -6,7 +6,7 @@
 }
 .chat{flex:2}
 
-.navbar{
+/* .navbar{
     display: flex;
     align-items: center;
     background-color: #2f2d52;
@@ -23,9 +23,9 @@
 .user{
     display: flex;
     gap: 10px;
-}
+} */
 
-img{
+/* img{
     background-color: #ddddf7;
     height: 24px;
     width: 24px;
@@ -39,48 +39,12 @@ button{
     font-size: 8px;
     border: none;
     cursor: pointer;
-}
+} */
 
-.search{
+/* .search{
     border-bottom: 1px solid grey;
-}
+} */
 
 /* .sidebar{
     padding: 10px;
 } */
-.userChat{
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex-direction: row;
-    color: white;
-    cursor: pointer;
-    height: 52px;
-}
-.userChat:hover{
-    background-color: #2f2d52;
-}
-.userChatInfo span{
-    font-size: 18px;
-    font-weight: bold;
-}
-.userChatInfo p{
-    font-size: 14px;
-    color: lightgray;
-}
-.chats .userChat img{
-    /* padding: 10px; */
-    display: flex;
-    align-items: center;
-    /* gap: 10px; */
-    flex-direction: row;
-    color: white;
-    cursor: pointer;
-    height: 52px;
-    width: 50px;
-}
-.chats .userChat .userChatInfo p{
-    padding-top: 0px;
-    margin-top: 16px;
-}

@@ -1,5 +1,6 @@
 import React from 'react'
 import './Sidebar.css'
+import './Chats.css'
 const Chats = () => {
   return (
     <div className='chats'>
